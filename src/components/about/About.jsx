@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/me-about.jpg';
+import ME from '../../assets/me-about.JPG';
 import { FaAward } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { VscFolderLibrary } from 'react-icons/vsc';
@@ -9,7 +9,7 @@ const About = () => {
   return (
     <section id='about'>
       <h5>Get to Know</h5>
-      <h1>About Me</h1>
+      <h2>About Me</h2>
 
       <div className='container about__container'>
         <div className='about__me'>
@@ -23,28 +23,28 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>3+ years of event planning</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Involvement</h5>
+              <small>Actively involved in student clubs</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <h5>Competitions</h5>
+              <small>10+ case competitions/ hackathons</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat
-            modi qui sit enim quod cupiditate obcaecati. Nihil fugit eius odio
-            modi atque corrupti, ab impedit soluta iusto iste! A, delectus.
+            Avid Foodie. Staunch believer of self improvement. Incoming second
+            year Business Computer Science student looking to break into the
+            tech industry. Always eager for opportunities!
           </p>
           <a href='#contact' className='btn btn-primary'>
-            Let's Talk
+            More About Me
           </a>
         </div>
       </div>

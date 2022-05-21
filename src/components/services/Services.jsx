@@ -6,90 +6,127 @@ const Services = () => {
   return (
     <section id='services'>
       <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h2>Relevant Experiences</h2>
 
       <div className='container services__container'>
         <article className='service'>
           <div className='service__head'>
-            <h3>UI/UX Design</h3>
+            <h3>Product Management Club</h3>
+            <h5>Treasurer/ Product Sprint Executive</h5>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Managing the club's account, overseeing the budget, and signing
+                off on transactions
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Pitched to acquire mentors and sponsors for BC's first Product
+                Management competition, hosting over 150 participants
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Collaborated with companies to create and deliver high-quality
+                cases to students
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Onboarded judges and prepared user-friendly yet effective
+                technology to aid in judging
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Emceed opening ceremonies and collected audience feedback</p>
             </li>
           </ul>
         </article>
         <article className='service'>
           <div className='service__head'>
-            <h3>Web Development</h3>
+            <h3>Audi Richmond</h3>
+            <h5>Receptionist</h5>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Adapted to new technology after merger with GoAuto</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Operated online data base to keep track of inventory and
+                directed clientele to respective department representatives
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Book kept sales and service transactions (upward to $300,000 per
+                day)
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Mediated customer complaints and answered basic department
+                specific questions
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Maintained a positive attitude even during stressful situations
+              </p>
             </li>
           </ul>
         </article>
+
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Student Council</h3>
+            <h5>General Executive</h5>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Planned and emceed events like Breakfast with Santa and the
+                Remembrance Day Ceremony, which had over 1200 student turnout
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Supervised 24 Grade Representatives by providing mentorship and
+                professional development opportunities
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Communicated directly with the school admin to restructure
+                Student Council's framework into one that fosters more
+                inclusivity
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                One of three SLSS Representatives chosen to meet with district
+                superintendents to voice student opinions and ideate ways to
+                improve the school community
+              </p>
             </li>
           </ul>
         </article>
