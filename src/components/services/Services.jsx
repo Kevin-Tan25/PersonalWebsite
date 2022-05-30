@@ -50,6 +50,7 @@ const Services = () => {
             </li>
           </ul>
         </article>
+
         <article className='service'>
           <div className='service__head'>
             <h3>Audi Richmond</h3>
@@ -101,8 +102,7 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Planned and emceed events like Breakfast with Santa and the
-                Remembrance Day Ceremony, which had over 1200 student turnout
+                Planned and emceed events that had over 1200 student turnout
               </p>
             </li>
             <li>
@@ -115,17 +115,15 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Communicated directly with the school admin to restructure
-                Student Council's framework into one that fosters more
-                inclusivity
+                Communicated with the school admin to restructure Student
+                Council to foster more inclusivity
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>
                 One of three SLSS Representatives chosen to meet with district
-                superintendents to voice student opinions and ideate ways to
-                improve the school community
+                superintendents and speak about student engagement
               </p>
             </li>
           </ul>

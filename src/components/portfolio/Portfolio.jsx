@@ -18,7 +18,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG1} alt='' />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Feedback App</h3>
           <div className='portfolio__item-cta'>
             <a
               href='https://github.com/Kevin-Tan25/todo-list'
@@ -27,50 +27,18 @@ const Portfolio = () => {
             >
               Github
             </a>
-            <a href='' className='btn btn-primary' target='blank'>
-              Live Demo
-            </a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG1} alt='' />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio__item-cta'>
             <a
-              href='https://github.com/Kevin-Tan25/todo-list'
-              className='btn'
+              href='https://629543c3b5e4833e7451b375--rainbow-unicorn-748254.netlify.app/'
+              className='btn btn-primary'
               target='blank'
             >
-              Github
-            </a>
-            <a href='' className='btn btn-primary' target='blank'>
               Live Demo
             </a>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG1} alt='' />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className='portfolio__item-cta'>
-            <a
-              href='https://github.com/Kevin-Tan25/todo-list'
-              className='btn'
-              target='blank'
-            >
-              Github
-            </a>
-            <a href='' className='btn btn-primary' target='blank'>
-              Live Demo
-            </a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG1} alt='' />
+            <img src={IMG2} alt='' />
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -88,7 +56,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG1} alt='' />
+            <img src={IMG3} alt='' />
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
@@ -106,7 +74,43 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG1} alt='' />
+            <img src={IMG4} alt='' />
+          </div>
+          <h3>This is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
+            <a
+              href='https://github.com/Kevin-Tan25/todo-list'
+              className='btn'
+              target='blank'
+            >
+              Github
+            </a>
+            <a href='' className='btn btn-primary' target='blank'>
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG5} alt='' />
+          </div>
+          <h3>This is a portfolio item title</h3>
+          <div className='portfolio__item-cta'>
+            <a
+              href='https://github.com/Kevin-Tan25/todo-list'
+              className='btn'
+              target='blank'
+            >
+              Github
+            </a>
+            <a href='' className='btn btn-primary' target='blank'>
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG6} alt='' />
           </div>
           <h3>This is a portfolio item title</h3>
           <div className='portfolio__item-cta'>
