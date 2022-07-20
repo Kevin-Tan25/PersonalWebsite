@@ -1,11 +1,8 @@
 import React from 'react';
 import './portfolio.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
-import IMG3 from '../../assets/portfolio3.jpg';
-import IMG4 from '../../assets/portfolio4.jpg';
-import IMG5 from '../../assets/portfolio5.png';
-import IMG6 from '../../assets/portfolio6.jpg';
+
+import IMG1 from '../../assets/todo.png';
+import IMG2 from '../../assets/github.png';
 
 const Portfolio = () => {
   return (
@@ -40,21 +37,25 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG2} alt='' />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Github Search</h3>
           <div className='portfolio__item-cta'>
             <a
-              href='https://github.com/Kevin-Tan25/todo-list'
+              href='https://github.com/Kevin-Tan25/github-finder'
               className='btn'
               target='blank'
             >
               Github
             </a>
-            <a href='' className='btn btn-primary' target='blank'>
+            <a
+              href='https://62d7a79cd788630604285fa6--charming-strudel-45806b.netlify.app/'
+              className='btn btn-primary'
+              target='blank'
+            >
               Live Demo
             </a>
           </div>
         </article>
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG3} alt='' />
           </div>
@@ -125,7 +126,7 @@ const Portfolio = () => {
               Live Demo
             </a>
           </div>
-        </article>
+        </article> */}
       </div>
     </section>
   );
