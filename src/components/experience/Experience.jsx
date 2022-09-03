@@ -29,21 +29,21 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>JavaScript</h4>
-                <small className='text-light'>Advanced Beginner</small>
+                <h4>React JS</h4>
+                <small className='text-light'>Competent</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>Python</h4>
-                <small className='text-light'>Advanced Beginner</small>
+                <small className='text-light'>Competent</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>JavaScript</h4>
                 <small className='text-light'>Advanced Beginner</small>
               </div>
             </article>
@@ -63,7 +63,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Eclipse</h4>
+                <h4>IntelliJ</h4>
                 <small className='text-light'>Competent</small>
               </div>
             </article>
@@ -91,7 +91,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React JS</h4>
+                <h4>Ecllipse</h4>
                 <small className='text-light'>Advanced Beginner</small>
               </div>
             </article>
@@ -99,7 +99,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>R Studio</h4>
-                <small className='text-light'>Novice</small>
+                <small className='text-light'>Advanced Beginner</small>
               </div>
             </article>
           </div>

@@ -19,16 +19,12 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Managing the club's account, overseeing the budget, and signing
-                off on transactions
+                Manage $5000+ in the club's budget and approve transactions.
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>
-                Pitched to acquire mentors and sponsors for BC's first Product
-                Management competition, hosting over 150 participants
-              </p>
+              <p>Advise the president on team structure and future events.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -40,13 +36,22 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Onboarded judges and prepared user-friendly yet effective
-                technology to aid in judging
+                Designed and developed a responsive website for the club using
+                Figma and React JS.
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Emceed opening ceremonies and collected audience feedback</p>
+              <p>
+                Acquired 30+ mentors and 100+ participants for BC's first
+                student-led Product Management competition.
+              </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>
+                Hosted event opening ceremonies and facilitated speaker events.
+              </p>
             </li>
           </ul>
         </article>
@@ -60,7 +65,10 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Adapted to new technology after merger with GoAuto</p>
+              <p>
+                Assisted existing and prospective clientele by directing them to
+                their respective department representatives.
+              </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -72,21 +80,15 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Book kept sales and service transactions (upward to $300,000 per
-                day)
+                Mediated customer complaints and questions, answering and
+                directing 300+ weekly customer inquiries.
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                Mediated customer complaints and answered basic department
-                specific questions
-              </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                Maintained a positive attitude even during stressful situations
+                Performed basic bookkeeping for $300,000+ in sales and service
+                payments per day.
               </p>
             </li>
           </ul>
