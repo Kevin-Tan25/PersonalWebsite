@@ -12,7 +12,7 @@ const Services = () => {
         <article className='service'>
           <div className='service__head'>
             <h3>Product Management Club</h3>
-            <h5>Treasurer/ Product Sprint Executive</h5>
+            <h5>Treasurer</h5>
           </div>
 
           <ul className='service__list'>
